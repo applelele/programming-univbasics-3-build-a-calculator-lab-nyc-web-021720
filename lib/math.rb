@@ -4,11 +4,12 @@ end
 addition(12, 5)
 
 def subtraction(num1, num2)
-subtraction = num2 - num1
+subs = num1 - num2
 end
+subtraction(20, 11)
 
 def division(num1, num2)
-
+d
 end
 
 def multiplication(num1, num2)
