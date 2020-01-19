@@ -24,6 +24,6 @@ end
 modulo(5, 12)
 
 def square_root(num)
-  squ = num**2
+  squ = Math.sin(num)
 end
-square_root(5)
+square_root(25)
