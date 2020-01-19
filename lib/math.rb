@@ -9,7 +9,7 @@ end
 subtraction(20, 11)
 
 def division(num1, num2)
-divs = num2 / num1
+divs = num1 / num2
 end
 division(15, 3)
 
@@ -19,9 +19,9 @@ end
 multiplication(3, 5)
 
 def modulo(num1, num2)
-remain = num2 /= num1
+remain = num /= num2
 end
-modulo(5, 12)
+modulo(12, 5)
 
 def square_root(num)
   squ = Math.sqrt(num)
