@@ -19,7 +19,7 @@ end
 multiplication(3, 5)
 
 def modulo(num1, num2)
-remain = num2 %= num1
+remain = num2 /= num1
 end
 modulo(5, 12)
 
